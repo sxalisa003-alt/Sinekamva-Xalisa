@@ -24,7 +24,7 @@ Currently working on:
 * Business-focused dashboard projects
 
 Projects:
-
+Video Game Sales- Excel BI  https://github.com/sxalisa003-alt/VideoGame_Sales
 
 
 Connect with me:
