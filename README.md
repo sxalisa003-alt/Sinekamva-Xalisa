@@ -1,69 +1,9 @@
-# Hi, I'm Sinekamva 👋
+# Amazon Sales Project | SQL & Excel Bi
 
-## Junior Data Analyst | Business & Business Intelligence Analyst
-
-I am a BCom Economic Sciences with Economics and Informatics graduate focused on Data Analytics and Business Intelligence. I enjoy analysing sales, marketing, financial and user behaviour data to uncover insights that support better business decisions.
-
-Currently building practical analytics projects while strengthening my SQL, Python and Power BI skills.
-
----
-
-## Technical Skills
-
-Data Analysis:
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue) | ![Excel](https://img.shields.io/badge/Excel-Advanced-green) | ![Power BI](https://img.shields.io/badge/PowerBI-Intermediate-orange) | ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-
-Data Techniques:
-Data Cleaning | Data Transformation | Exploratory Data Analysis | Data Visualisation | Dashboard Development
-
-Business Focus Areas:
-Sales Analytics | Marketing Analytics | Financial Analysis | Product/User Analytics
-
----
-
-## Portfolio Projects
-
-### Video Game Sales Analysis Dashboard
-Business intelligence dashboard analysing global sales trends across genres, platforms, publishers and regions.
-
-Skills demonstrated:
-• Data Cleaning  
-• Data Transformation  
-• Dashboard Development  
-• Business Insight Analysis  
-
-Project link:
-Video Game Sales- Excel BI  https://github.com/sxalisa003-alt/VideoGame_Sales
-
-
----
-
-## Currently Learning
-
-Python for data analysis  
-Advanced SQL  
-Power BI dashboard design  
-
----
-
-## Career Goals
-
-Seeking entry-level Data Analyst, BI Analyst or Business Analyst opportunities where I can apply data analysis and business intelligence skills.
-
----
-
-## Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/sxalisa003/
-
-
-GitHub:
-(Already here) 😉
-
-Projects:
+## Project Overview
+This project examines an Amazon Sales dataset to investigate how product categories, regions, payment methods, and time trends affect revenue generation, order volume, and units sold. Through this examination, we will also investigate the connection between elements like ratings, discounts, and the number of reviews with the sales outcomes. The objective is to reveal essential business factors and trends that can help in making informed decisions utilizing SQL to analyse data and an interactive Excel dashboard. 
 
 
 
-Connect with me:
-https://www.linkedin.com/in/sxalisa003/
+
+
