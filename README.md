@@ -11,7 +11,7 @@ Currently building practical analytics projects while strengthening my SQL, Pyth
 ## Technical Skills
 
 Data Analysis:
-SQL | Excel | Power BI | Python
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue) | ![Excel](https://img.shields.io/badge/Excel-Advanced-green) | ![Power BI](https://img.shields.io/badge/PowerBI-Intermediate-orange) | ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
 Data Techniques:
 Data Cleaning | Data Transformation | Exploratory Data Analysis | Data Visualisation | Dashboard Development
