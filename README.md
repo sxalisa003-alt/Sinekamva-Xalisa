@@ -1,7 +1,7 @@
 # Sinekamva-Xalisa
 
 Hi, I'm Sinekamva.
-I am a BCom Economics and Informatics graduate building my career in Data Analytics and Business Intelligence.
+I am a BCom Economic Sciences with Economics and Informatics graduate, building my career in Data Analytics and Business Intelligence.
 
 My interests include:
 * Sales Analytics
