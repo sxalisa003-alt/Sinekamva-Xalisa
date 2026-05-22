@@ -50,7 +50,7 @@ Right now, I'm focused on the puzzle of data analysis—sourcing raw data, clean
 
 ## My Projects
 <p align="center">
-  <h3>📁 Featured Projects</h3>
+  <h3>🧚‍♀️ Featured Projects</h3>
   <a href="https://github.com/sxalisa003-alt/Amazon_Sales">
     <img src="https://img.shields.io/badge/📦_Amazon_Sales_Analysis-4A154B?style=for-the-badge&logoColor=white" alt="Amazon Sales Analysis" />
   </a>
