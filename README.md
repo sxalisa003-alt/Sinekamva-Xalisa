@@ -1,3 +1,5 @@
+
+![IntroBanner](https://link-to-your-image.com/image.png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F52F57&background=FFCAD4E2&center=true&width=435&lines=Data+%26+BI+Analyst+;Market%2C+E-Commerce+%26+Business+Analytics" alt="Typing SVG" /></a>
 
 
