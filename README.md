@@ -52,13 +52,13 @@ Right now, I'm focused on the puzzle of data analysis—sourcing raw data, clean
 <p align="center">
   <h3>📁 Featured Projects</h3>
   <a href="../Amazon_Sales">
-    <img src="https://img.shields.io/badge/🛍️_E--Commerce_Analysis-4A154B?style=for-the-badge&logoColor=white" alt="E-Commerce Analysis" />
+    <img src="https://img.shields.io/badge/📦_Amazon_Sales_Analysis-4A154B?style=for-the-badge&logoColor=white" alt="Amazon Sales Analysis" />
   </a>
-  <a href="../YOUR-MARKET-REPO-NAME">
-    <img src="https://img.shields.io/badge/📈_Market_%26_Sales_Trends-8E24AA?style=for-the-badge&logoColor=white" alt="Market Analysis" />
+  <a href="../ECON325_ResearchProject2024">
+    <img src="https://img.shields.io/badge/📊_ECON325_Research_Project-8E24AA?style=for-the-badge&logoColor=white" alt="ECON325 Research Project" />
   </a>
-  <a href="../YOUR-BUSINESS-BI-REPO-NAME">
-    <img src="https://img.shields.io/badge/💼_Business_Intelligence_Dashboard-D81B60?style=for-the-badge&logoColor=white" alt="BI Dashboard" />
+  <a href="../VideoGame_Sales">
+    <img src="https://img.shields.io/badge/🎮_Video_Game_Sales_Trends-D81B60?style=for-the-badge&logoColor=white" alt="Video Game Sales" />
   </a>
 </p>
 
