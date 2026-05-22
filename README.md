@@ -70,4 +70,10 @@ Let's connect! I am always open to collaborating on data projects!
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-7A1FA2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+<p align="center">
+  <a href="sxalisa003@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-F50057?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
