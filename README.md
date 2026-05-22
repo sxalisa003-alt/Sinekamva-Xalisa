@@ -51,13 +51,13 @@ Right now, I'm focused on the puzzle of data analysis—sourcing raw data, clean
 ## My Projects
 <p align="center">
   <h3>📁 Featured Projects</h3>
-  <a href="../Amazon_Sales">
+  <a href="https://github.com/sxalisa003-alt/Amazon_Sales">
     <img src="https://img.shields.io/badge/📦_Amazon_Sales_Analysis-4A154B?style=for-the-badge&logoColor=white" alt="Amazon Sales Analysis" />
   </a>
-  <a href="../ECON325_ResearchProject2024">
+  <a href="https://github.com/sxalisa003-alt/ECON325_ResearchProject2024">
     <img src="https://img.shields.io/badge/📊_ECON325_Research_Project-8E24AA?style=for-the-badge&logoColor=white" alt="ECON325 Research Project" />
   </a>
-  <a href="../VideoGame_Sales">
+  <a href="https://github.com/sxalisa003-alt/VideoGame_Sales">
     <img src="https://img.shields.io/badge/🎮_Video_Game_Sales_Trends-D81B60?style=for-the-badge&logoColor=white" alt="Video Game Sales" />
   </a>
 </p>
@@ -71,9 +71,8 @@ Let's connect! I am always open to collaborating on data projects!
   </a>
 </p>
 <p align="center">
-  <a href="sxalisa003@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sxalisa003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-F50057?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 
