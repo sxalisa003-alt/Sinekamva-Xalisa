@@ -46,7 +46,7 @@ Right now, I'm focused on the puzzle of data analysis—sourcing raw data, clean
   <img src="https://img.shields.io/badge/GitHub-FF4081?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-F50057?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-#
+
 
 ## My Projects
 <p align="center">
