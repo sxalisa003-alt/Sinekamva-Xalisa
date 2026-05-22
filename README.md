@@ -1,6 +1,7 @@
-# Hi there, I'm Sinekamva 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F52F57&background=FFCAD4E2&center=true&width=435&lines=Data+%26+BI+Analyst+;Market%2C+E-Commerce+%26+Business+Analytics" alt="Typing SVG" /></a>
 
-I am Bcom Economic Science with Economics and Informatics  graduate with a passion for turning messy datasets into clear and actionable stories. I love digging into data and revealing the "why" and "how" behind numbers.
+
+I am a BCom Economics and Informatics  graduate with a passion for turning messy datasets into clear and actionable stories. I love digging into data and revealing the "why" and "how" behind numbers.
 
 ### What am I up to now?
 * Portfolio Building: I am currently building a portfolio with end-to-end BI projects using SQL, EXCEL, Power BI, and Python. (Check out my projects!!).
