@@ -51,7 +51,7 @@ Right now, I'm focused on the puzzle of data analysis—sourcing raw data, clean
 ## My Projects
 <p align="center">
   <h3>📁 Featured Projects</h3>
-  <a href="../YOUR-E-COMMERCE-REPO-NAME">
+  <a href="../Amazon_Sales">
     <img src="https://img.shields.io/badge/🛍️_E--Commerce_Analysis-4A154B?style=for-the-badge&logoColor=white" alt="E-Commerce Analysis" />
   </a>
   <a href="../YOUR-MARKET-REPO-NAME">
