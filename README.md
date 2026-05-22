@@ -1,5 +1,5 @@
 
-![IntroBanner](https://github.com/sxalisa003-alt/Sinekamva-Xalisa/blob/b763b3375e23cc94cb62fbf8c5f871cd165dead2/images/IntroBannerGit.png)
+![IntroBanner](https://github.com/sxalisa003-alt/sxalisa003-alt/blob/ef8d60cbf2cb5f9cfd10c32669eb00ca229511f9/images/SXIntroBanner.png)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
